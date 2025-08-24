@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrezakzed&label=Profile%20views&color=f38a12&style=flat" alt="abderrezakzed" /> </p>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://tools.nafezly.com/l/L9cWm)"><img src="https://tools.nafezly.com/l/L9cWm" /></a> </p>
+
 
 - 🔭 I’m currently working as **Full Stack Web Developer**
 
